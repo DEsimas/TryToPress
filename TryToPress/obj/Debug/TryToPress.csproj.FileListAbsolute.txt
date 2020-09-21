@@ -1,0 +1,33 @@
+C:\Programs\TryToPress\TryToPress\TryToPress\bin\Debug\TryToPress.exe.config
+C:\Programs\TryToPress\TryToPress\TryToPress\bin\Debug\TryToPress.exe
+C:\Programs\TryToPress\TryToPress\TryToPress\bin\Debug\TryToPress.pdb
+C:\Programs\TryToPress\TryToPress\TryToPress\obj\Debug\TryToPress.csprojAssemblyReference.cache
+C:\Programs\TryToPress\TryToPress\TryToPress\obj\Debug\TryToPress.Form1.resources
+C:\Programs\TryToPress\TryToPress\TryToPress\obj\Debug\TryToPress.Properties.Resources.resources
+C:\Programs\TryToPress\TryToPress\TryToPress\obj\Debug\TryToPress.csproj.GenerateResource.cache
+C:\Programs\TryToPress\TryToPress\TryToPress\obj\Debug\TryToPress.csproj.CoreCompileInputs.cache
+C:\Programs\TryToPress\TryToPress\TryToPress\obj\Debug\TryToPress.exe
+C:\Programs\TryToPress\TryToPress\TryToPress\obj\Debug\TryToPress.pdb
+C:\Programs\TryToPress\TryToPress\TryToPress\obj\Debug\TryToPress.Console.resources
+E:\Programs\My programs\Windows forms C#\TryToPress\TryToPress\TryToPress\bin\Debug\TryToPress.exe.config
+E:\Programs\My programs\Windows forms C#\TryToPress\TryToPress\TryToPress\bin\Debug\TryToPress.exe
+E:\Programs\My programs\Windows forms C#\TryToPress\TryToPress\TryToPress\bin\Debug\TryToPress.pdb
+E:\Programs\My programs\Windows forms C#\TryToPress\TryToPress\TryToPress\obj\Debug\TryToPress.csprojAssemblyReference.cache
+E:\Programs\My programs\Windows forms C#\TryToPress\TryToPress\TryToPress\obj\Debug\TryToPress.Form1.resources
+E:\Programs\My programs\Windows forms C#\TryToPress\TryToPress\TryToPress\obj\Debug\TryToPress.Console.resources
+E:\Programs\My programs\Windows forms C#\TryToPress\TryToPress\TryToPress\obj\Debug\TryToPress.Properties.Resources.resources
+E:\Programs\My programs\Windows forms C#\TryToPress\TryToPress\TryToPress\obj\Debug\TryToPress.csproj.GenerateResource.cache
+E:\Programs\My programs\Windows forms C#\TryToPress\TryToPress\TryToPress\obj\Debug\TryToPress.csproj.CoreCompileInputs.cache
+E:\Programs\My programs\Windows forms C#\TryToPress\TryToPress\TryToPress\obj\Debug\TryToPress.exe
+E:\Programs\My programs\Windows forms C#\TryToPress\TryToPress\TryToPress\obj\Debug\TryToPress.pdb
+E:\Programs\My programs\Windows forms C#\Done\TryToPress\TryToPress\TryToPress\bin\Debug\TryToPress.exe.config
+E:\Programs\My programs\Windows forms C#\Done\TryToPress\TryToPress\TryToPress\bin\Debug\TryToPress.exe
+E:\Programs\My programs\Windows forms C#\Done\TryToPress\TryToPress\TryToPress\bin\Debug\TryToPress.pdb
+E:\Programs\My programs\Windows forms C#\Done\TryToPress\TryToPress\TryToPress\obj\Debug\TryToPress.csprojAssemblyReference.cache
+E:\Programs\My programs\Windows forms C#\Done\TryToPress\TryToPress\TryToPress\obj\Debug\TryToPress.Form1.resources
+E:\Programs\My programs\Windows forms C#\Done\TryToPress\TryToPress\TryToPress\obj\Debug\TryToPress.Console.resources
+E:\Programs\My programs\Windows forms C#\Done\TryToPress\TryToPress\TryToPress\obj\Debug\TryToPress.Properties.Resources.resources
+E:\Programs\My programs\Windows forms C#\Done\TryToPress\TryToPress\TryToPress\obj\Debug\TryToPress.csproj.GenerateResource.cache
+E:\Programs\My programs\Windows forms C#\Done\TryToPress\TryToPress\TryToPress\obj\Debug\TryToPress.csproj.CoreCompileInputs.cache
+E:\Programs\My programs\Windows forms C#\Done\TryToPress\TryToPress\TryToPress\obj\Debug\TryToPress.exe
+E:\Programs\My programs\Windows forms C#\Done\TryToPress\TryToPress\TryToPress\obj\Debug\TryToPress.pdb

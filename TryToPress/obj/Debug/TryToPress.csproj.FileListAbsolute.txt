@@ -31,3 +31,14 @@ E:\Programs\My programs\Windows forms C#\Done\TryToPress\TryToPress\TryToPress\o
 E:\Programs\My programs\Windows forms C#\Done\TryToPress\TryToPress\TryToPress\obj\Debug\TryToPress.csproj.CoreCompileInputs.cache
 E:\Programs\My programs\Windows forms C#\Done\TryToPress\TryToPress\TryToPress\obj\Debug\TryToPress.exe
 E:\Programs\My programs\Windows forms C#\Done\TryToPress\TryToPress\TryToPress\obj\Debug\TryToPress.pdb
+D:\Archive\Programs\!GitHub\TryToPress\TryToPress\bin\Debug\TryToPress.exe.config
+D:\Archive\Programs\!GitHub\TryToPress\TryToPress\bin\Debug\TryToPress.exe
+D:\Archive\Programs\!GitHub\TryToPress\TryToPress\bin\Debug\TryToPress.pdb
+D:\Archive\Programs\!GitHub\TryToPress\TryToPress\obj\Debug\TryToPress.csprojAssemblyReference.cache
+D:\Archive\Programs\!GitHub\TryToPress\TryToPress\obj\Debug\TryToPress.Form1.resources
+D:\Archive\Programs\!GitHub\TryToPress\TryToPress\obj\Debug\TryToPress.Console.resources
+D:\Archive\Programs\!GitHub\TryToPress\TryToPress\obj\Debug\TryToPress.Properties.Resources.resources
+D:\Archive\Programs\!GitHub\TryToPress\TryToPress\obj\Debug\TryToPress.csproj.GenerateResource.cache
+D:\Archive\Programs\!GitHub\TryToPress\TryToPress\obj\Debug\TryToPress.csproj.CoreCompileInputs.cache
+D:\Archive\Programs\!GitHub\TryToPress\TryToPress\obj\Debug\TryToPress.exe
+D:\Archive\Programs\!GitHub\TryToPress\TryToPress\obj\Debug\TryToPress.pdb

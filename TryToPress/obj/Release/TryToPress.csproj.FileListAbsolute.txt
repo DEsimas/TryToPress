@@ -1,0 +1,11 @@
+D:\Archive\Programs\!GitHub\TryToPress\TryToPress\bin\Release\TryToPress.exe.config
+D:\Archive\Programs\!GitHub\TryToPress\TryToPress\bin\Release\TryToPress.exe
+D:\Archive\Programs\!GitHub\TryToPress\TryToPress\bin\Release\TryToPress.pdb
+D:\Archive\Programs\!GitHub\TryToPress\TryToPress\obj\Release\TryToPress.csprojAssemblyReference.cache
+D:\Archive\Programs\!GitHub\TryToPress\TryToPress\obj\Release\TryToPress.Form1.resources
+D:\Archive\Programs\!GitHub\TryToPress\TryToPress\obj\Release\TryToPress.Console.resources
+D:\Archive\Programs\!GitHub\TryToPress\TryToPress\obj\Release\TryToPress.Properties.Resources.resources
+D:\Archive\Programs\!GitHub\TryToPress\TryToPress\obj\Release\TryToPress.csproj.GenerateResource.cache
+D:\Archive\Programs\!GitHub\TryToPress\TryToPress\obj\Release\TryToPress.csproj.CoreCompileInputs.cache
+D:\Archive\Programs\!GitHub\TryToPress\TryToPress\obj\Release\TryToPress.exe
+D:\Archive\Programs\!GitHub\TryToPress\TryToPress\obj\Release\TryToPress.pdb

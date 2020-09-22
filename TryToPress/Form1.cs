@@ -14,12 +14,11 @@ namespace TryToPress
     {
         Random rand = new Random();
         Console console = new Console();
-        private int x, y,size_x = 1300,size_y = 700, a = 1;
         private string str = "Console\n";
+        int size_x, size_y, x, y, counter;
         public Form1()
         {
             InitializeComponent();
-            this.WindowState = FormWindowState.Maximized;
         }
 
         private void button_Click(object sender, EventArgs e)
@@ -35,6 +34,11 @@ namespace TryToPress
         private void button2_Click(object sender, EventArgs e)
         {
             groupBox2.Visible = false;
+            size_x = Int32.Parse(width.Text);
+            size_y = Int32.Parse(height.Text);
+            this.Width = size_x;
+            this.Height = size_y;
+            this.Location = new Point(0, 0);
         }
 
         private void Form1_KeyDown(object sender, KeyEventArgs e)
@@ -42,33 +46,11 @@ namespace TryToPress
             console.Show();
         }
 
-        private void radioButton1_CheckedChanged(object sender, EventArgs e)
-        {
-            
-        }
-
-        private void radioButton2_CheckedChanged(object sender, EventArgs e)
-        {
-            size_x = 650;
-            size_y = 350;
-            this.Width = 650;
-            this.Height = 350;
-        }
-
-        private void radioButton3_CheckedChanged(object sender, EventArgs e)
-        {
-            size_x = 325;
-            size_y = 175;
-            this.Width = 325;
-            this.Height = 175;
-        }
-
         private void button_MouseEnter(object sender, EventArgs e)
         {
-            x = rand.Next(1,size_x);
-            y = rand.Next(1,size_y);
-            str += a + ".X." + x +" Y." + y + "\n";
-            a += 1;
+            x = rand.Next(1,size_x - button1.Width - 100);
+            y = rand.Next(1,size_y - button1.Height - 100);
+            str += ++counter + ".X." + x +" Y." + y + "\n";
             console.str = this.str;
             console.change();
             button.Location = new Point(x, y);
